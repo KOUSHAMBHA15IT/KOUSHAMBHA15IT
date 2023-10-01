@@ -30,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=koushambha15it&show_icons=true&locale=en" alt="koushambha15it" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=koushambha15it&" alt="koushambha15it" /></p>
+
+[![An image of @koushambha15's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/koushambha15)](https://holopin.io/@koushambha15)
