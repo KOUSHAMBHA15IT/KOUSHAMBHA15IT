@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Koushambha%20Das&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java%20Developer%20|%20DSA%20Enthusiast%20|%20Problem%20Solver&descAlignY=51&descAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+There!+%F0%9F%91%8B+I'm+Koushambha;Java+Developer+%E2%98%95;DSA+%26+Algorithm+Expert+%F0%9F%A7%A0;Solving+Problems+One+Line+at+a+Time+%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+There!+%F0%9F%91%8B+I'm+Koushambha;Java+Developer+%E2%98%95;Solving+Problems+at+a+Time+%F0%9F%92%BB" alt="Typing SVG" />
 
 <br/>
 
@@ -18,7 +18,7 @@
 
 ## 🌟 About Me
 
-<div align="center">
+<div align="left">
 
 ```java
 public class KoushamabhaDas {
@@ -49,11 +49,11 @@ public class KoushamabhaDas {
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs-Zhhhiv0n07Lo6oIugPCWUsJithkrShLug&usqp=CAU" alt="Coding" width="380" style="border-radius: 15px;"/>
 </div>
 
-<br/>
+<br/> -->
 
 ## 💎 Tech Arsenal
 
