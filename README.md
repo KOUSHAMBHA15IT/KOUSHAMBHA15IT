@@ -25,8 +25,8 @@ public class KoushamabhaDas {
     
     private String role = "Java Developer";
     private String[] expertise = {"Java", "C", "Data Structures", "Algorithms"};
-    private String currentFocus = "Mastering DSA & Problem Solving";
-    private String portfolio = "https://myport1506.my.canva.site/myport21506";
+    private String currentFocus = "Java & Spring Boot";
+    private String portfolio = "https://lime-folio.onrender.com";
     private String email = "KOUSHAMBHADAS1506@GMAIL.COM";
     
     public String getMotivation() {
@@ -159,7 +159,7 @@ public class KoushamabhaDas {
 |:---:|:---:|:---:|
 | **HackerRank** | [@koushambha39](https://www.hackerrank.com/@koushambha39) | 🔥 Active |
 | **GitHub** | [@koushambha15it](https://github.com/koushambha15it) | ⚡ Contributing |
-| **Portfolio** | [View Projects](https://myport1506.my.canva.site/myport21506) | 🚀 Live |
+| **Portfolio** | [View Projects](https://lime-folio.onrender.com) | 🚀 Live |
 
 </div>
 
@@ -175,7 +175,7 @@ public class KoushamabhaDas {
 <a href="https://www.hackerrank.com/@koushambha39" target="_blank">
   <img src="https://img.shields.io/badge/-Hackerrank-%232EC866.svg?style=for-the-badge&logo=HackerRank&logoColor=white&labelColor=2EC866" alt="HackerRank"/>
 </a>
-<a href="https://lime-folio.onrender.com/" target="_blank">
+<a href="https://lime-folio.onrender.com" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-%23FF7139.svg?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF7139" alt="Portfolio"/>
 </a>
 <a href="mailto:KOUSHAMBHADAS1506@GMAIL.COM">
