@@ -6,9 +6,8 @@
 
 <br/>
 
-<video src="https://github.com/user-attachments/assets/d9df14c2-a28e-4758-95f1-6944e6f69ecd" controls width="640" height="480">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/d9df14c2-a28e-4758-95f1-6944e6f69ecd
+
 
 
 
