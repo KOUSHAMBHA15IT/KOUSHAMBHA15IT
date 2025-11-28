@@ -6,9 +6,8 @@
 
 <br/>
 
-<video src="https://github.com/user-attachments/assets/414b35c4-f704-4745-b603-94682ca3877c" autoplay loop muted playsinline width="640">
-  Your browser does not support the video tag.
-</video>
+
+![Tech](https://github.com/user-attachments/assets/74f3bbca-17c1-4b7a-9d7a-9cdff1c2d54e)
 
 
 <br/><br/>
