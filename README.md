@@ -23,7 +23,7 @@
 <div align="left">
 
 ```java
-public class KoushamabhaDas {
+public class KoushambhaDas {
     
     private String role = "Java Developer";
     private String[] expertise = {"Java", "C", "Data Structures", "Algorithms"};
