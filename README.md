@@ -96,15 +96,7 @@ public class KoushambhaDas {
 
 </div>
 
-<br/>
 
-## 🏆 Achievements Showcase
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=koushambha15it&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="100%" alt="trophy" />
-
-</div>
 
 <br/>
 
