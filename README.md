@@ -211,15 +211,7 @@ Goals_2025:
 
 <br/>
 
-## 🏅 Holopin Badge Collection
 
-<div align="center">
-  
-[![Holopin Badges](https://holopin.me/koushambha15)](https://holopin.io/@koushambha15)
-
-</div>
-
-<br/>
 
 ## 💭 Developer Wisdom
 
